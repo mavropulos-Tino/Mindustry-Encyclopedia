@@ -25,7 +25,17 @@
   cursor: pointer;
 }
 .sector:hover {
+  stroke: cyan;
   stroke-width: 6px;
+}
+
+.text {
+  color: #000;
+  font-size: 1.3rem;
+  font-weight: bold;
+
+  user-select: none;
+  pointer-events: none;
 }
 
 .gap {
