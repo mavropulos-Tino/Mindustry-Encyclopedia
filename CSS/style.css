@@ -1,0 +1,30 @@
+@font-face {
+   font-family: Font;
+   src: url(../Assets/Fonts/font.ttf);
+}
+
+:root {
+  --bg-color: #141414;
+  --stroke-color: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Font;
+}
+
+body {
+  background-color: var(--bg-color);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 100vw;
+}
