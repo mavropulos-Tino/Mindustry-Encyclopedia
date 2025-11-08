@@ -1,0 +1,96 @@
+@import '/CSS/style.css';
+
+.node-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+
+  background-color: #0f0f0f;
+
+  min-width: 12rem;
+  max-width: 15rem;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  clip-path: polygon(
+    15px 0%,
+    calc(100% - 15px) 0%,
+    100% 15px,
+    100% calc(100% - 15px),
+    calc(100% - 15px) 100%,
+    15px 100%,
+    0% calc(100% - 15px),
+    0% 15px
+  );
+
+  user-select: none;
+  cursor: pointer;
+
+  transition: 250ms ease-in-out;
+}
+
+.node-container:hover {
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
+}
+
+.node-header {
+  padding: 0.75rem 0.75rem;
+  width: 100%;
+
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.20rem;
+
+  border-bottom: 2px solid #ff9900;
+}
+
+.node-header .title {
+  font-size: 1.25rem;
+}
+
+.node-body {
+  padding: 0.75rem 0.75rem;
+  width: 100%;
+
+  color: #fff;
+  text-align: left;
+  letter-spacing: 0.20rem;
+}
+
+.node-body h1 {
+  font-size: 0.95rem;
+}
+
+.dificulty {
+  color: #00D502FF;
+}
+.gamemode {
+  color: #0725ac;
+}
+.waves {
+  color: #6a0f9e;
+}
+
+.threats {
+  color: #c41e1e;
+}
+
+.resource-container .resource-title{
+  color: #c06816;
+  padding-bottom: 0.25rem;
+}
+
+.resource-container svg {
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+}
+
+.note {
+  color: #757575;
+  font-size: 0.60rem;
+  letter-spacing: normal;
+}

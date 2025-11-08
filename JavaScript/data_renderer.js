@@ -84,5 +84,5 @@ async function applySectorData() {
     console.error('ney', error);
   }
 }
-// Wait for site to load before running functions
+// Wait for site to load before running
 document.addEventListener('DOMContentLoaded', applySectorData);

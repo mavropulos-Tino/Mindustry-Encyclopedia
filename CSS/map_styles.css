@@ -19,14 +19,11 @@
 }
 
 .sector{
-  stroke: var(--stroke-color);
-  stroke-width: 4px;
-
   cursor: pointer;
 }
 .sector:hover {
   stroke: cyan;
-  stroke-width: 6px;
+  stroke-width: 7px;
 }
 
 .text {
