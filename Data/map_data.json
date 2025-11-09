@@ -282,7 +282,7 @@
   "sector-ground_zero": { "color": "#00D502FF", "number": "Ground Zero" },
   "sector-impact_0078": { "color": "#FF1D00FF", "number": "IMPACT 0078" },
   "sector-nuclear_production_complex": { "color": "#FF1D00FF", "number": "Nuclear Porduction Complex" },
-  "sector-over_growth": { "color": "#FF1D00FF", "number": "Over growth" },
+  "sector-over_growth": { "color": "#FF1D00FF", "number": "Over Growth" },
   "sector-planetary_launch_terminal": { "color": "#AD009AFF", "number": "Planetary Launch Terminal" },
   "sector-ruinous_shores": { "color": "#CBBC06FF", "number": "Rouinous Shores" },
   "sector-salt_flats": { "color": "#FF1D00FF", "number": "Salt Flats" },

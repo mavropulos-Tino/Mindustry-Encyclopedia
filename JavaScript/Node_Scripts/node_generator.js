@@ -39,13 +39,18 @@ document.addEventListener('DOMContentLoaded', () => {
     newNode.style.left = '0';
     newNode.style.zIndex = '10';
 
-    // Gets sector number from the mapData to change the Node title
+    // Gets sector data from mapData and diferentiates normal from base sectors as to not ad the "Sector " part in base sector names
     const sectorData = mapData[sectorId];
-    const sectorNumber = sectorData ? sectorData.number : 'XXX';
     const titleElement = newNode.querySelector('.node-header .title');
-    if (titleElement) {
-      titleElement.textContent = `Sector ${sectorNumber}`;
+    if (titleElement && sectorData) {
+      const value = sectorData.number || sectorData.name || 'Unknown Sector';
+      if (!isNaN(Number(value))) {
+        titleElement.textContent = `Sector ${value}`;
+      } else {
+        titleElement.textContent = value;
+      }
     }
+
 
     // Node offset and viewport constraints
     const margin = 10;
@@ -61,7 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
     newY = Math.max(margin, Math.min(newY, maxY));
 
     // Finaly sets the position
-    newNode.style.transform = `translate(${newX}px, ${newY}px)`;
+    newNode.style.left = `${newX}px`;
+    newNode.style.top = `${newY}px`;
 
     // Actually places it into <body>
     document.body.appendChild(newNode);
@@ -82,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
           return;
         }
 
-        // Multi opened nodes logic
+        // Logic for multiple opened nodes at the same time holding down ctrl key
         const sectorRect = sector.getBoundingClientRect();
         const isCtrlPressed = e.ctrlKey;
 
