@@ -11,30 +11,54 @@
   min-width: 10rem;
   max-width: 11rem;
 
-  display: none;
+  display: flex;
   align-items: center;
   flex-direction: column;
 
   clip-path: polygon(
-    15px 0%,
-    calc(100% - 15px) 0%,
-    100% 15px,
-    100% calc(100% - 15px),
-    calc(100% - 15px) 100%,
-    15px 100%,
-    0% calc(100% - 15px),
-    0% 15px
+    10px 0%,
+    calc(100% - 10px) 0%,
+    100% 10px,
+    100% calc(100% - 10px),
+    calc(100% - 10px) 100%,
+    10px 100%,
+    0% calc(100% - 10px),
+    0% 10px
   );
 
   transition: 250ms ease-in-out;
 }
 
-.node-container.show {
-  display: flex;
-}
-
 .node-container:hover {
   box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
+}
+
+.node-close-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  background: rgba(114, 0, 0, 0.7);
+
+  width: 22px;
+  height: 22px;
+  
+  border: none;
+
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% 100%,
+    20px 100%,
+    0 calc(100% - 20px)
+  );
+
+  cursor: pointer;
+  transition: 250ms ease-in-out;
+}
+
+.node-close-button:hover {
+  background: rgb(167, 0, 0);
 }
 
 .node-header {

@@ -79,9 +79,7 @@ async function applySectorData() {
       }
     });
     
-    console.log('yey');
   } catch (error) {
-    console.error('ney', error);
   }
 }
 // Wait for site to load before running
