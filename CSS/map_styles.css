@@ -16,8 +16,8 @@
   cursor: pointer;
 }
 .sector:hover {
-  stroke: cyan;
-  stroke-width: 7px;
+  stroke: rgb(0, 255, 255);
+  stroke-width: 18px;
 }
 
 .text {
