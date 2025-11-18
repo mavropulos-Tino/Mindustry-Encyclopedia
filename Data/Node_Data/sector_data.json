@@ -1,0 +1,1899 @@
+{
+  "Sector-001": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["Salt Flats"]
+  },
+  "Sector-002": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-003": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-004": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["114", "115"]
+  },
+  "Sector-005": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Thorium"],
+    "vulnerableTo": ["121"]
+  },
+  "Sector-006": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["124", "125"]
+  },
+  "Sector-007": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["129"]
+  },
+  "Sector-008": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["133", "Overgrowth"]
+  },
+  "Sector-009": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["138"]
+  },
+  "Sector-010": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-011": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["148", "149"]
+  },
+  "Sector-012": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["154"]
+  },
+  "Sector-013": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["158"]
+  },
+  "Sector-014": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-016": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-017": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-019": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-022": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["Naval Fortress"]
+  },
+  "Sector-024": {
+    "type": "Survival",
+    "threatLevel": "Eradication",
+    "waveCount": "-",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["224", "225", "226", "229"]
+  },
+  "Sector-025": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "-",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["233"]
+  },
+  "Sector-026": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["241"]
+  },
+  "Sector-027": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-028": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "-",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["248"]
+  },
+  "Sector-029": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["254", "255", "257", "259"]
+  },
+  "Sector-030": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["264", "265"]
+  },
+  "Sector-031": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-032": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["154", "Planetary Launch Terminal"]
+  },
+  "Sector-033": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["154", "Planetary Launch Terminal"]
+  },
+  "Sector-034": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-035": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-036": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-037": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-038": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-039": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["Naval Fortress"]
+  },
+  "Sector-040": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["Naval Fortress"]
+  },
+  "Sector-041": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["Salt Flats"]
+  },
+  "Sector-042": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-043": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-044": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["241"]
+  },
+  "Sector-045": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["182"]
+  },
+  "Sector-046": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["182"]
+  },
+  "Sector-047": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-048": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-049": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-050": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-051": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-052": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Thorium", "Water"],
+    "vulnerableTo": ["158"]
+  },
+  "Sector-053": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["114", "158", "254", "255"]
+  },
+  "Sector-054": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["114", "115", "254", "259"]
+  },
+  "Sector-055": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["115"]
+  },
+  "Sector-056": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-057": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["248", "257"]
+  },
+  "Sector-058": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium"],
+    "vulnerableTo": ["248"]
+  },
+  "Sector-059": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-060": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["121", "264", "265"]
+  },
+  "Sector-061": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["121", "259", "264"]
+  },
+  "Sector-062": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["180"]
+  },
+  "Sector-063": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["124", "180"]
+  },
+  "Sector-064": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["124", "125"]
+  },
+  "Sector-065": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["125", "226"]
+  },
+  "Sector-066": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["225", "226", "233"]
+  },
+  "Sector-067": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["241"]
+  },
+  "Sector-068": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["129"]
+  },
+  "Sector-069": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["129", "233", "225", "224"]
+  },
+  "Sector-070": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["229", "224"]
+  },
+  "Sector-071": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-072": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["133"]
+  },
+  "Sector-073": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Oil"],
+    "vulnerableTo": ["133", "210", "265", "Overgrowth"]
+  },
+  "Sector-074": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["Overgrowth", "210"]
+  },
+  "Sector-075": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-076": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-077": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["138"]
+  },
+  "Sector-078": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["138"]
+  },
+  "Sector-079": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["257"]
+  },
+  "Sector-080": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["255"]
+  },
+  "Sector-082": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-083": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-084": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["229"]
+  },
+  "Sector-085": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-087": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["148"]
+  },
+  "Sector-088": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["148", "149"]
+  },
+  "Sector-089": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["149"]
+  },
+  "Sector-090": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-091": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-092": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["0", "36", "Planetary Launch Terminal"]
+  },
+  "Sector-094": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["0", "34", "Planetary Launch Terminal"]
+  },
+  "Sector-095": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["0", "34"]
+  },
+  "Sector-096": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["0", "36"]
+  },
+  "Sector-097": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["Salt Flats"]
+  },
+  "Sector-098": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["38"]
+  },
+  "Sector-099": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["38"]
+  },
+  "Sector-100": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["Salt Flats", "Naval Fortress"]
+  },
+  "Sector-102": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-103": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-104": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-105": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-106": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["182"]
+  },
+  "Sector-107": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["47"]
+  },
+  "Sector-108": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "30",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["47"]
+  },
+  "Sector-109": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["49"]
+  },
+  "Sector-110": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["49"]
+  },
+  "Sector-111": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-112": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["56"]
+  },
+  "Sector-113": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["114", "158"]
+  },
+  "Sector-114": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["54", "115", "254"]
+  },
+  "Sector-115": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["54", "114"]
+  },
+  "Sector-116": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["56", "115"]
+  },
+  "Sector-117": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["5", "57", "121"]
+  },
+  "Sector-118": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["5", "57", "248"]
+  },
+  "Sector-119": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["5", "59"]
+  },
+  "Sector-120": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["5", "59", "60", "121"]
+  },
+  "Sector-121": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["5", "60", "264"]
+  },
+  "Sector-122": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-124": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["125"]
+  },
+  "Sector-125": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["125", "226"]
+  },
+  "Sector-126": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["71"]
+  },
+  "Sector-127": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["68", "129"]
+  },
+  "Sector-128": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["68", "69"]
+  },
+  "Sector-129": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["69"]
+  },
+  "Sector-131": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["133"]
+  },
+  "Sector-132": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["Overgrowth"]
+  },
+  "Sector-133": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["210"]
+  },
+  "Sector-135": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["Overgrowth"]
+  },
+  "Sector-136": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["138"]
+  },
+  "Sector-137": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-138": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-139": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-140": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-141": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-142": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["10"]
+  },
+  "Sector-143": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["10", "84"]
+  },
+  "Sector-144": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["10", "84"]
+  },
+  "Sector-145": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["10"]
+  },
+  "Sector-146": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Oil"],
+    "vulnerableTo": ["11", "148"]
+  },
+  "Sector-147": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["11", "149"]
+  },
+  "Sector-148": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["11", "148"]
+  },
+  "Sector-149": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["11", "149"]
+  },
+  "Sector-150": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["11"]
+  },
+  "Sector-151": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-152": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["154"]
+  },
+  "Sector-153": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["Planetary Launch Terminal"]
+  },
+  "Sector-154": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["154"]
+  },
+  "Sector-155": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-156": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-157": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["13"]
+  },
+  "Sector-158": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["13", "34", "158"]
+  },
+  "Sector-159": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["13", "34"]
+  },
+  "Sector-160": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["13"]
+  },
+  "Sector-161": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["13"]
+  },
+  "Sector-162": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["13"]
+  },
+  "Sector-163": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["13", "158", "255"]
+  },
+  "Sector-164": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["38", "Extraction Outpost"]
+  },
+  "Sector-166": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["34", "Extraction Outpost"]
+  },
+  "Sector-167": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["34"]
+  },
+  "Sector-168": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["56"]
+  },
+  "Sector-169": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["38", "56"]
+  },
+  "Sector-170": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium"],
+    "vulnerableTo": ["124"]
+  },
+  "Sector-171": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["36"]
+  },
+  "Sector-172": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["36"]
+  },
+  "Sector-173": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["Extraction Outpost"]
+  },
+  "Sector-174": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-175": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-176": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-177": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-178": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["36"]
+  },
+  "Sector-179": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["36", "180"]
+  },
+  "Sector-180": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-181": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["180"]
+  },
+  "Sector-182": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-183": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["182"]
+  },
+  "Sector-184": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["47"]
+  },
+  "Sector-185": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["47", "59"]
+  },
+  "Sector-186": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["59"]
+  },
+  "Sector-187": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["182"]
+  },
+  "Sector-188": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["71"]
+  },
+  "Sector-189": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["49", "71"]
+  },
+  "Sector-190": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["49"]
+  },
+  "Sector-191": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-192": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-193": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["241"]
+  },
+  "Sector-194": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["19", "84"]
+  },
+  "Sector-195": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Titanium"],
+    "vulnerableTo": ["19"]
+  },
+  "Sector-196": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["19", "49"]
+  },
+  "Sector-197": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["19", "49", "71"]
+  },
+  "Sector-198": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["19", "70", "71"]
+  },
+  "Sector-199": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["19", "70", "84", "229"]
+  },
+  "Sector-200": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-201": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-202": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-203": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-204": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-205": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-206": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["59", "60", "Fungal Pass"]
+  },
+  "Sector-207": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["47", "59", "Fungal Pass"]
+  },
+  "Sector-208": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["47", "Fungal Pass"]
+  },
+  "Sector-209": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["210", "Fungal Pass"]
+  },
+  "Sector-210": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["Overgrowth & Fungal Pass"]
+  },
+  "Sector-211": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Oil"],
+    "vulnerableTo": ["60", "210", "265", "Fungal Pass"]
+  },
+  "Sector-212": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-214": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-215": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["Naval Fortress"]
+  },
+  "Sector-217": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["Naval Fortress"]
+  },
+  "Sector-218": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["125"]
+  },
+  "Sector-219": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-220": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["Salt Flats"]
+  },
+  "Sector-221": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-222": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-223": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-224": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["225", "24", "229", "70", "69"]
+  },
+  "Sector-225": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["224", "69", "233", "226"]
+  },
+  "Sector-226": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["24", "225"]
+  },
+  "Sector-228": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["24", "84", "229"]
+  },
+  "Sector-229": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["24", "70", "84", "224"]
+  },
+  "Sector-230": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["25", "148"]
+  },
+  "Sector-231": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["25"]
+  },
+  "Sector-232": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["25"]
+  },
+  "Sector-233": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["25", "69", "225"]
+  },
+  "Sector-234": {
+    "type": "Survival",
+    "threatLevel": "Eradication",
+    "waveCount": "65",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["25", "68", "69", "129", "233"]
+  },
+  "Sector-235": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["25", "68"]
+  },
+  "Sector-236": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["241"]
+  },
+  "Sector-237": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-238": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["149"]
+  },
+  "Sector-239": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["68"]
+  },
+  "Sector-240": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Oil"],
+    "vulnerableTo": ["68", "241"]
+  },
+  "Sector-241": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-242": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["138"]
+  },
+  "Sector-243": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-244": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-245": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-247": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-248": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["28", "57"]
+  },
+  "Sector-249": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["28", "57", "248", "257"]
+  },
+  "Sector-250": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["28"]
+  },
+  "Sector-251": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["28"]
+  },
+  "Sector-252": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["28"]
+  },
+  "Sector-253": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["28", "248"]
+  },
+  "Sector-254": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["54", "114", "255", "259"]
+  },
+  "Sector-255": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["254"]
+  },
+  "Sector-256": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["255", "257"]
+  },
+  "Sector-257": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["57"]
+  },
+  "Sector-258": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["57", "257", "259"]
+  },
+  "Sector-259": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["54", "254", ""]
+  },
+  "Sector-260": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["30", "133", "265"]
+  },
+  "Sector-261": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap"],
+    "vulnerableTo": ["30"]
+  },
+  "Sector-262": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["30", "54", "115"]
+  },
+  "Sector-263": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "55",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Oil"],
+    "vulnerableTo": ["30", "54", "259", "264"]
+  },
+  "Sector-264": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water", "Oil"],
+    "vulnerableTo": ["30", "60", "121", "265"]
+  },
+  "Sector-265": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["30", "60", "264"]
+  },
+  "Sector-266": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["31", "38"]
+  },
+  "Sector-267": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["31", "38", "56"]
+  },
+  "Sector-268": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "35",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["31", "56"]
+  },
+  "Sector-269": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Water"],
+    "vulnerableTo": ["31"]
+  },
+  "Sector-270": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["31"]
+  },
+  "Sector-271": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "25",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Biomass-Synthesis-Facility": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Desolate-Rift": {
+    "type": "Survival",
+    "threatLevel": "Extreme",
+    "waveCount": "18",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["124", "180"]
+  },
+  "Sector-Extraction-Outpost": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Frozen-Forest": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "15",
+    "resources": ["Copper", "Lead", "Coal"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Fungal-Pass": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Ground-Zero": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "10",
+    "resources": ["Copper", "Lead", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-IMPACT-0078": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "45",
+    "resources": ["Copper", "Lead", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["24", "226"]
+  },
+  "Sector-Nuclear-Production-Complex": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "50",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["70", "129", "224"]
+  },
+  "Sector-Overgrowth": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water"],
+    "vulnerableTo": ["Overgrowth"]
+  },
+  "Sector-Planetary-Launch-Terminal": {
+    "type": "Attack",
+    "threatLevel": "Eradication",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Thorium", "Water"],
+    "vulnerableTo": ["0", "154"]
+  },
+  "Sector-Rouinous-Shores": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "30",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Naval-Fortress": {
+    "type": "Attack",
+    "threatLevel": "Extreme",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Salt-Flats": {
+    "type": "Attack",
+    "threatLevel": "High",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Stained-Mountains": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "30",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Tar-Fields": {
+    "type": "Survival",
+    "threatLevel": "High",
+    "waveCount": "40",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Thorium", "Scrap", "Water", "Oil"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-The-Craters": {
+    "type": "Survival",
+    "threatLevel": "Low",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  },
+  "Sector-Windswept-Islands": {
+    "type": "Survival",
+    "threatLevel": "Medium",
+    "waveCount": "20",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Titanium", "Scrap", "Water"],
+    "vulnerableTo": ["None"]
+  }
+}

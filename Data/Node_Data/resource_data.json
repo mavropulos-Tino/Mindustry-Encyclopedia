@@ -1,0 +1,11 @@
+{
+  "Copper": "../../Assets/Vector_Graphics/Resources/copper.svg",
+  "Lead": "../../Assets/Vector_Graphics/Resources/lead.svg",
+  "Sand": "../../Assets/Vector_Graphics/Resources/sand.svg",
+  "Scrap": "../../Assets/Vector_Graphics/Resources/scrap.svg",
+  "Water": "../../Assets/Vector_Graphics/Resources/water.svg",
+  "Coal": "../../Assets/Vector_Graphics/Resources/coal.svg",
+  "Titanium": "../../Assets/Vector_Graphics/Resources/titanium.svg",
+  "Thorium": "../../Assets/Vector_Graphics/Resources/thorium.svg",
+  "Oil": "../../Assets/Vector_Graphics/Resources/oil.svg"
+}
