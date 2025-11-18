@@ -1,4 +1,11 @@
 {
+  "Sector-000": {
+    "type": "Attack",
+    "threatLevel": "Medium",
+    "waveCount": "None",
+    "resources": ["Copper", "Lead", "Sand", "Coal", "Water"],
+    "vulnerableTo": ["Planetary Launch Terminal"]
+  },
   "Sector-001": {
     "type": "Survival",
     "threatLevel": "Low",

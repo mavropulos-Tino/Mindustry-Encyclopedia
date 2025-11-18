@@ -1,0 +1,65 @@
+@import '/CSS/style.css';
+
+.node-container {
+  position: fixed;
+  display: none;
+
+  background: #1e1e1e;
+  color: #e6e6e6;
+
+  padding: .5rem 0.5rem;
+
+  min-width: 200px;
+  max-width: 270px;
+  min-height: 120px;
+  max-height: 400px;
+
+  overflow-y: auto;
+
+  clip-path: polygon(
+    15px 0,
+    0 15px,
+    0 calc(100% - 15px),
+    15px 100%,
+    calc(100% - 15px) 100%,
+    100% calc(100% - 15px),
+    100% 15px,
+    calc(100% - 15px) 0
+  );
+}
+
+.node-header {
+  text-align: center;
+  border-bottom: 3px solid #ff9100;
+  padding-bottom: .5rem;
+
+  font-size: .8rem;
+  font-weight: normal;
+  letter-spacing: 3px;
+
+  user-select: none;
+}
+
+.node-header:hover {
+  cursor: pointer;
+}
+
+.node-body {
+  padding: .3rem;
+}
+
+.node-info {
+  padding: .5rem 0;
+}
+
+.node-threat {
+  padding: .5rem 0;
+}
+
+.node-resources {
+  padding: .5rem 0;
+}
+
+.node-body p {
+  margin: 8px 0;
+}

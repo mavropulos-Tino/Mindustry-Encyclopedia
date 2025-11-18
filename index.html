@@ -6,6 +6,7 @@
 
   <link rel="stylesheet" href="/CSS/style.css">
   <link rel="stylesheet" href="/CSS/map_styles.css">
+  <link rel="stylesheet" href="/CSS/node_styles.css">
 
   <title>Mindustry Encyclopedia</title>
 </head>
@@ -18,6 +19,27 @@
     </svg>
   </div>
 
+  <div class="node-container">
+    <div class="node-header">
+      <h2 class="node-title">Sector: <span class="node-value sector-name"></span></h2>
+    </div>
+
+    <div class="node-body">
+    <div class="node-info">
+      <p>Threat Level: <span class="node-value threat-level"></span></p>
+      <p>Gamemode: <span class="node-value type"></span></p>
+      <p>Wave Count: <span class="node-value wave-count"></span></p>
+    </div>
+    <div class="node-threats">
+      <p>Under Threat Of Attack: <br> <span class="node-value vulnerable-to"></span></p>
+    </div>
+    <div class="node-resources">
+      <p>Available Resources: <br> <span class="node-value resources"></span></p>
+    </div>
+  </div>
+
   <script src="/JavaScript/map_renderer.js"></script>
+  <script src="/JavaScript/Node_Scripts/node_generator.js"></script>
+  <script src="/JavaScript/Node_Scripts/node_data_renderer.js"></script>
 </body>
 </html>
